@@ -1,0 +1,49 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Android
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+*.jar
+
+# Gradle
+.gradle
+/build/
+/captures/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local configuration
+local.properties
+
+# NDK
+.externalNativeBuild
+.cxx/
+
+# Logs
+*.log
+/logs/
+
+# macOS
+.DS_Store
